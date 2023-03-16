@@ -1,11 +1,12 @@
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rashidul Haq</h1>
 <h3 align="center">Still Learning......</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidulhaq&label=Profile%20views&color=0e75b6&style=flat" alt="rashidulhaq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashidulhaq" alt="rashidulhaq" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/md_rashidul_haq" target="blank"><img src="https://img.shields.io/twitter/follow/md_rashidul_haq?logo=twitter&style=for-the-badge" alt="md_rashidul_haq" /></a> </p>
+
+- 🖥 Coding Lover
 
 - 🔭 I’m currently working on **I am currently work educational platform**
 
@@ -40,3 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashidulhaq&show_icons=true&locale=en" alt="rashidulhaq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashidulhaq&" alt="rashidulhaq" /></p>
+
