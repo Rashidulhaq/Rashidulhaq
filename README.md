@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rashidul Haq</h1>
-https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidulhaq&label=Profile%20views&color=0e75b6&style=flat" alt="rashidulhaq" /> </p>
@@ -41,4 +40,3 @@ https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashidulhaq&show_icons=true&locale=en" alt="rashidulhaq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashidulhaq&" alt="rashidulhaq" /></p>
-
