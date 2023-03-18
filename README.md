@@ -10,11 +10,11 @@
 
 - 🖥 Coding Lover
 
-- 🔭 I’m currently working on **I am currently work educational platform**
+- 🔭 **I am currently work educational platform**
 
-- 🌱 I’m currently learning **Python , C++**
+- 🌱 I’m learning **Python , C++**
 
-- 💬 Ask me about **Python, C++**
+- 💬 Ask me about **Python, C++ , C ,PHP , MySQL**
 
 - 📫 How to reach me **rashidulhaq015@gmail.com**
 
