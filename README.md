@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rashidulhaq015@gmail.com**
 
-- ⚡ Fun fact **I think I am funny☺**
+- ⚡  **I think I am funny☺**
 
 
 
@@ -66,6 +66,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidulhaq&langs_count=8&layout=compact&theme=radical&exclude_repo=rashidulhaq.github.io" alt="rashidulhaq's Top Languages" /> <img src="https://github-readme-stats.vercel.app/api?username=rashidulhaq&show_icons=true&theme=radical" alt="Rashidul's GitHub stats" />
 </p>
 
+## 🏆 Trophy
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=rayhanalshorif133&theme=onestar&row=1&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 
 <p align="">
